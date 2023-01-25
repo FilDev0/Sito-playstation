@@ -1,0 +1,14 @@
+.logo-sony{
+    background-color: black;
+    min-height: 36px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.logo-sony img{
+    max-width: 50%;
+    max-height: 20px;
+    display: flex;
+    ;
+}
